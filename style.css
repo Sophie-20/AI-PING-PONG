@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+.heading {
+    width: 100%;
+}
+
+.heading h3 {
+    display: inline;
+    font-size: 30px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#start{
+    font-size: 22px;
+}
