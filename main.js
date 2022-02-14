@@ -1,4 +1,4 @@
-
+  
 /*created by prashant shukla */
 
 var paddle2 =10,paddle1=10;
@@ -36,7 +36,7 @@ function draw(){
 
  fill("black");
  stroke("black");
- rect(0,0,20,700);
+ rect(500,0,20,700);
  
    //funtion paddleInCanvas call 
    paddleInCanvas();

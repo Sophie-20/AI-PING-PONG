@@ -17,3 +17,16 @@ body
 #start{
     font-size: 22px;
 }
+.copyright-footer {
+    background-color: grey;
+    color: black;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 2;
+    
+}
+.sophie{
+    color:blue;
+}
