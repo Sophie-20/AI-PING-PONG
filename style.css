@@ -4,11 +4,13 @@ body
 }
 .heading {
     width: 100%;
+    position:sticky ;
 }
 
 .heading h3 {
     display: inline;
     font-size: 30px;
+    position:sticky ;
 }
 .heading button{
     float: right;
@@ -29,4 +31,22 @@ body
 }
 .sophie{
     color:blue;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+
+    box-shadow: 5px 5px 5px white;
+    position:sticky ;
+    
+}
+video{
+    border: 2px solid yellow;
+    border-radius: 10px;
+    width: 800px;
+    height: 400px;
+    background-size: cover;
+    position:sticky ;
+    margin-left: 550px;
 }
